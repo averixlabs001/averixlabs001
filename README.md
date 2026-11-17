@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://averixlabs.com">Website</a> ·
+  <a href="https://averixlabs.in">Website</a> ·
   <a href="https://github.com/bhaskar9832/Averix-Labs">GitHub</a> ·
   <a href="#contact">Contact</a>
 </p>
